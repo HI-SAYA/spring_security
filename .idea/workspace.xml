@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93c48ead-a06a-4a90-b0a7-139ea79816ca" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/chap01-session-login/src/main/java/com/ohgiraffers/sessionlogin/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01-session-login/src/main/java/com/ohgiraffers/sessionlogin/member/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01-session-login/src/main/java/com/ohgiraffers/sessionlogin/member/dao/MemberMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01-session-login/src/main/java/com/ohgiraffers/sessionlogin/member/dao/MemberMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01-session-login/src/main/java/com/ohgiraffers/sessionlogin/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap01-session-login/src/main/java/com/ohgiraffers/sessionlogin/member/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01-session-login/src/main/resources/mappers/MemberMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chap01-session-login/src/main/resources/mappers/MemberMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01-session-login/src/main/resources/messages/messages_ko_KR.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chap01-session-login/src/main/resources/messages/messages_ko_KR.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap01-session-login/src/main/resources/templates/member/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/chap01-session-login/src/main/resources/templates/member/join.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chap01-session-login" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Vc2IbGjuLAS2GNgjnt7CxOHc4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Lecture/10_Spring/03_spring_security",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="93c48ead-a06a-4a90-b0a7-139ea79816ca" name="변경" comment="" />
+      <created>1695120968292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695120968292</updated>
+      <workItem from="1695120969285" duration="11000" />
+      <workItem from="1695192708255" duration="1227000" />
+      <workItem from="1695202694316" duration="607000" />
+      <workItem from="1695252412726" duration="188000" />
+    </task>
+    <task id="LOCAL-00001" summary="0920">
+      <option name="closed" value="true" />
+      <created>1695192713360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695192713360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/chap01-session-login" />
+    </ignored-roots>
+    <MESSAGE value="0920" />
+    <option name="LAST_COMMIT_MESSAGE" value="0920" />
+  </component>
+</project>
